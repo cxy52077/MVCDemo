@@ -1,0 +1,29 @@
+﻿@{
+    ViewBag.Title = "RazorBasic";
+    string name = ViewBag.Jianjia; 
+    string[] items = new string[] { "one", "two", "three" ,"four"};
+}
+
+<h2>RazorBasic</h2>
+<ul>
+    @foreach (var item in items)
+    {
+        <li>This item is @item</li> 
+    }
+</ul>
+<h1>@ViewBag.jianjia</h1>
+
+
+
+
+
+<h1>@(items.Length).Lenth</h1>
+
+
+
+
+
+<ul>
+    <li>@(items.Length).Length</li>
+    <li>@@@@@items.Length</li>
+</ul>

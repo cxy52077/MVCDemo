@@ -1,0 +1,135 @@
+D:\Users\chenxiaoyang.517NA\Documents\Visual Studio 2012\Projects\MvcForJunior\MvcForJunior\bin\Better517Na.MVCExcerise.Junior.WebUI.dll
+D:\Users\chenxiaoyang.517NA\Documents\Visual Studio 2012\Projects\MvcForJunior\MvcForJunior\bin\Better517Na.MVCExcerise.Junior.WebUI.pdb
+D:\Users\chenxiaoyang.517NA\Documents\Visual Studio 2012\Projects\MvcForJunior\MvcForJunior\bin\Antlr3.Runtime.dll
+D:\Users\chenxiaoyang.517NA\Documents\Visual Studio 2012\Projects\MvcForJunior\MvcForJunior\bin\EntityFramework.dll
+D:\Users\chenxiaoyang.517NA\Documents\Visual Studio 2012\Projects\MvcForJunior\MvcForJunior\bin\Microsoft.Web.Infrastructure.dll
+D:\Users\chenxiaoyang.517NA\Documents\Visual Studio 2012\Projects\MvcForJunior\MvcForJunior\bin\Newtonsoft.Json.dll
+D:\Users\chenxiaoyang.517NA\Documents\Visual Studio 2012\Projects\MvcForJunior\MvcForJunior\bin\System.Net.Http.Formatting.dll
+D:\Users\chenxiaoyang.517NA\Documents\Visual Studio 2012\Projects\MvcForJunior\MvcForJunior\bin\System.Web.Http.dll
+D:\Users\chenxiaoyang.517NA\Documents\Visual Studio 2012\Projects\MvcForJunior\MvcForJunior\bin\System.Web.Http.WebHost.dll
+D:\Users\chenxiaoyang.517NA\Documents\Visual Studio 2012\Projects\MvcForJunior\MvcForJunior\bin\System.Web.Mvc.dll
+D:\Users\chenxiaoyang.517NA\Documents\Visual Studio 2012\Projects\MvcForJunior\MvcForJunior\bin\System.Web.Optimization.dll
+D:\Users\chenxiaoyang.517NA\Documents\Visual Studio 2012\Projects\MvcForJunior\MvcForJunior\bin\System.Web.Providers.dll
+D:\Users\chenxiaoyang.517NA\Documents\Visual Studio 2012\Projects\MvcForJunior\MvcForJunior\bin\System.Web.Razor.dll
+D:\Users\chenxiaoyang.517NA\Documents\Visual Studio 2012\Projects\MvcForJunior\MvcForJunior\bin\System.Web.WebPages.Deployment.dll
+D:\Users\chenxiaoyang.517NA\Documents\Visual Studio 2012\Projects\MvcForJunior\MvcForJunior\bin\System.Web.WebPages.dll
+D:\Users\chenxiaoyang.517NA\Documents\Visual Studio 2012\Projects\MvcForJunior\MvcForJunior\bin\System.Web.WebPages.Razor.dll
+D:\Users\chenxiaoyang.517NA\Documents\Visual Studio 2012\Projects\MvcForJunior\MvcForJunior\bin\WebGrease.dll
+D:\Users\chenxiaoyang.517NA\Documents\Visual Studio 2012\Projects\MvcForJunior\MvcForJunior\bin\EntityFramework.xml
+D:\Users\chenxiaoyang.517NA\Documents\Visual Studio 2012\Projects\MvcForJunior\MvcForJunior\bin\Newtonsoft.Json.xml
+D:\Users\chenxiaoyang.517NA\Documents\Visual Studio 2012\Projects\MvcForJunior\MvcForJunior\bin\System.Net.Http.Formatting.xml
+D:\Users\chenxiaoyang.517NA\Documents\Visual Studio 2012\Projects\MvcForJunior\MvcForJunior\bin\System.Web.Http.xml
+D:\Users\chenxiaoyang.517NA\Documents\Visual Studio 2012\Projects\MvcForJunior\MvcForJunior\bin\System.Web.Http.WebHost.xml
+D:\Users\chenxiaoyang.517NA\Documents\Visual Studio 2012\Projects\MvcForJunior\MvcForJunior\bin\System.Web.Mvc.xml
+D:\Users\chenxiaoyang.517NA\Documents\Visual Studio 2012\Projects\MvcForJunior\MvcForJunior\bin\System.Web.Razor.xml
+D:\Users\chenxiaoyang.517NA\Documents\Visual Studio 2012\Projects\MvcForJunior\MvcForJunior\bin\System.Web.WebPages.xml
+D:\Users\chenxiaoyang.517NA\Documents\Visual Studio 2012\Projects\MvcForJunior\MvcForJunior\bin\System.Web.WebPages.Deployment.xml
+D:\Users\chenxiaoyang.517NA\Documents\Visual Studio 2012\Projects\MvcForJunior\MvcForJunior\bin\System.Web.WebPages.Razor.xml
+D:\Users\chenxiaoyang.517NA\Documents\Visual Studio 2012\Projects\MvcForJunior\MvcForJunior\bin\zh-Hans\EntityFramework.resources.dll
+D:\Users\chenxiaoyang.517NA\Documents\Visual Studio 2012\Projects\MvcForJunior\MvcForJunior\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+D:\Users\chenxiaoyang.517NA\Documents\Visual Studio 2012\Projects\MvcForJunior\MvcForJunior\bin\zh-Hans\System.Web.Http.resources.dll
+D:\Users\chenxiaoyang.517NA\Documents\Visual Studio 2012\Projects\MvcForJunior\MvcForJunior\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+D:\Users\chenxiaoyang.517NA\Documents\Visual Studio 2012\Projects\MvcForJunior\MvcForJunior\bin\zh-Hans\System.Web.Mvc.resources.dll
+D:\Users\chenxiaoyang.517NA\Documents\Visual Studio 2012\Projects\MvcForJunior\MvcForJunior\bin\zh-Hans\System.Web.Optimization.resources.dll
+D:\Users\chenxiaoyang.517NA\Documents\Visual Studio 2012\Projects\MvcForJunior\MvcForJunior\bin\zh-Hans\System.Web.Providers.resources.dll
+D:\Users\chenxiaoyang.517NA\Documents\Visual Studio 2012\Projects\MvcForJunior\MvcForJunior\bin\zh-Hans\System.Web.Razor.resources.dll
+D:\Users\chenxiaoyang.517NA\Documents\Visual Studio 2012\Projects\MvcForJunior\MvcForJunior\bin\zh-Hans\System.Web.WebPages.resources.dll
+D:\Users\chenxiaoyang.517NA\Documents\Visual Studio 2012\Projects\MvcForJunior\MvcForJunior\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+D:\Users\chenxiaoyang.517NA\Documents\Visual Studio 2012\Projects\MvcForJunior\MvcForJunior\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+D:\Users\chenxiaoyang.517NA\Documents\Visual Studio 2012\Projects\MvcForJunior\MvcForJunior\obj\Debug\Better517Na.MVCExcerise.Junior.WebUI.csprojResolveAssemblyReference.cache
+D:\Users\chenxiaoyang.517NA\Documents\Visual Studio 2012\Projects\MvcForJunior\MvcForJunior\obj\Debug\Better517Na.MVCExcerise.Junior.WebUI.dll
+D:\Users\chenxiaoyang.517NA\Documents\Visual Studio 2012\Projects\MvcForJunior\MvcForJunior\obj\Debug\Better517Na.MVCExcerise.Junior.WebUI.pdb
+D:\Users\chenxiaoyang.517NA\Documents\Visual Studio 2012\Projects\MvcForJunior\MvcForJunior\bin\Better517Na.MVCExcerise.Junior.TestPage.dll
+D:\Users\chenxiaoyang.517NA\Documents\Visual Studio 2012\Projects\MvcForJunior\MvcForJunior\bin\Better517Na.MVCExcerise.Junior.TestPage.pdb
+D:\Users\chenxiaoyang.517NA\Documents\Visual Studio 2012\Projects\MvcForJunior\MvcForJunior\bin\Better517Na.MVCExcerise.Junior.ViewModel.dll
+D:\Users\chenxiaoyang.517NA\Documents\Visual Studio 2012\Projects\MvcForJunior\MvcForJunior\bin\Better517Na.MVCExcerise.Junior.ViewModel.pdb
+D:\MvcForJunior\MvcForJunior\bin\Better517Na.MVCExcerise.Junior.WebUI.dll
+D:\MvcForJunior\MvcForJunior\bin\Better517Na.MVCExcerise.Junior.WebUI.pdb
+D:\MvcForJunior\MvcForJunior\bin\Antlr3.Runtime.dll
+D:\MvcForJunior\MvcForJunior\bin\Better517Na.MVCExcerise.Junior.TestPage.dll
+D:\MvcForJunior\MvcForJunior\bin\Better517Na.MVCExcerise.Junior.ViewModel.dll
+D:\MvcForJunior\MvcForJunior\bin\EntityFramework.dll
+D:\MvcForJunior\MvcForJunior\bin\Microsoft.Web.Infrastructure.dll
+D:\MvcForJunior\MvcForJunior\bin\Newtonsoft.Json.dll
+D:\MvcForJunior\MvcForJunior\bin\System.Net.Http.Formatting.dll
+D:\MvcForJunior\MvcForJunior\bin\System.Web.Http.dll
+D:\MvcForJunior\MvcForJunior\bin\System.Web.Http.WebHost.dll
+D:\MvcForJunior\MvcForJunior\bin\System.Web.Mvc.dll
+D:\MvcForJunior\MvcForJunior\bin\System.Web.Optimization.dll
+D:\MvcForJunior\MvcForJunior\bin\System.Web.Providers.dll
+D:\MvcForJunior\MvcForJunior\bin\System.Web.Razor.dll
+D:\MvcForJunior\MvcForJunior\bin\System.Web.WebPages.Deployment.dll
+D:\MvcForJunior\MvcForJunior\bin\System.Web.WebPages.dll
+D:\MvcForJunior\MvcForJunior\bin\System.Web.WebPages.Razor.dll
+D:\MvcForJunior\MvcForJunior\bin\WebGrease.dll
+D:\MvcForJunior\MvcForJunior\bin\Better517Na.MVCExcerise.Junior.TestPage.pdb
+D:\MvcForJunior\MvcForJunior\bin\Better517Na.MVCExcerise.Junior.ViewModel.pdb
+D:\MvcForJunior\MvcForJunior\bin\EntityFramework.xml
+D:\MvcForJunior\MvcForJunior\bin\Newtonsoft.Json.xml
+D:\MvcForJunior\MvcForJunior\bin\System.Net.Http.Formatting.xml
+D:\MvcForJunior\MvcForJunior\bin\System.Web.Http.xml
+D:\MvcForJunior\MvcForJunior\bin\System.Web.Http.WebHost.xml
+D:\MvcForJunior\MvcForJunior\bin\System.Web.Mvc.xml
+D:\MvcForJunior\MvcForJunior\bin\System.Web.Razor.xml
+D:\MvcForJunior\MvcForJunior\bin\System.Web.WebPages.xml
+D:\MvcForJunior\MvcForJunior\bin\System.Web.WebPages.Deployment.xml
+D:\MvcForJunior\MvcForJunior\bin\System.Web.WebPages.Razor.xml
+D:\MvcForJunior\MvcForJunior\bin\zh-Hans\EntityFramework.resources.dll
+D:\MvcForJunior\MvcForJunior\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+D:\MvcForJunior\MvcForJunior\bin\zh-Hans\System.Web.Http.resources.dll
+D:\MvcForJunior\MvcForJunior\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+D:\MvcForJunior\MvcForJunior\bin\zh-Hans\System.Web.Mvc.resources.dll
+D:\MvcForJunior\MvcForJunior\bin\zh-Hans\System.Web.Optimization.resources.dll
+D:\MvcForJunior\MvcForJunior\bin\zh-Hans\System.Web.Providers.resources.dll
+D:\MvcForJunior\MvcForJunior\bin\zh-Hans\System.Web.Razor.resources.dll
+D:\MvcForJunior\MvcForJunior\bin\zh-Hans\System.Web.WebPages.resources.dll
+D:\MvcForJunior\MvcForJunior\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+D:\MvcForJunior\MvcForJunior\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+D:\MvcForJunior\MvcForJunior\obj\Debug\Better517Na.MVCExcerise.Junior.WebUI.csprojResolveAssemblyReference.cache
+D:\MvcForJunior\MvcForJunior\obj\Debug\Better517Na.MVCExcerise.Junior.WebUI.dll
+D:\MvcForJunior\MvcForJunior\obj\Debug\Better517Na.MVCExcerise.Junior.WebUI.pdb
+D:\G.公司文档\01.部门域\03.研发部\03部门共享\03培训资料\04新人培训\技术\517Na开发部新员工培训_8MVC\8ASP.NET_配套实例\MvcForJunior\MvcForJunior\bin\Better517Na.MVCExcerise.Junior.WebUI.dll
+D:\G.公司文档\01.部门域\03.研发部\03部门共享\03培训资料\04新人培训\技术\517Na开发部新员工培训_8MVC\8ASP.NET_配套实例\MvcForJunior\MvcForJunior\bin\Better517Na.MVCExcerise.Junior.WebUI.pdb
+D:\G.公司文档\01.部门域\03.研发部\03部门共享\03培训资料\04新人培训\技术\517Na开发部新员工培训_8MVC\8ASP.NET_配套实例\MvcForJunior\MvcForJunior\bin\Antlr3.Runtime.dll
+D:\G.公司文档\01.部门域\03.研发部\03部门共享\03培训资料\04新人培训\技术\517Na开发部新员工培训_8MVC\8ASP.NET_配套实例\MvcForJunior\MvcForJunior\bin\Better517Na.MVCExcerise.Junior.TestPage.dll
+D:\G.公司文档\01.部门域\03.研发部\03部门共享\03培训资料\04新人培训\技术\517Na开发部新员工培训_8MVC\8ASP.NET_配套实例\MvcForJunior\MvcForJunior\bin\Better517Na.MVCExcerise.Junior.ViewModel.dll
+D:\G.公司文档\01.部门域\03.研发部\03部门共享\03培训资料\04新人培训\技术\517Na开发部新员工培训_8MVC\8ASP.NET_配套实例\MvcForJunior\MvcForJunior\bin\EntityFramework.dll
+D:\G.公司文档\01.部门域\03.研发部\03部门共享\03培训资料\04新人培训\技术\517Na开发部新员工培训_8MVC\8ASP.NET_配套实例\MvcForJunior\MvcForJunior\bin\Microsoft.Web.Infrastructure.dll
+D:\G.公司文档\01.部门域\03.研发部\03部门共享\03培训资料\04新人培训\技术\517Na开发部新员工培训_8MVC\8ASP.NET_配套实例\MvcForJunior\MvcForJunior\bin\Newtonsoft.Json.dll
+D:\G.公司文档\01.部门域\03.研发部\03部门共享\03培训资料\04新人培训\技术\517Na开发部新员工培训_8MVC\8ASP.NET_配套实例\MvcForJunior\MvcForJunior\bin\System.Net.Http.Formatting.dll
+D:\G.公司文档\01.部门域\03.研发部\03部门共享\03培训资料\04新人培训\技术\517Na开发部新员工培训_8MVC\8ASP.NET_配套实例\MvcForJunior\MvcForJunior\bin\System.Web.Http.dll
+D:\G.公司文档\01.部门域\03.研发部\03部门共享\03培训资料\04新人培训\技术\517Na开发部新员工培训_8MVC\8ASP.NET_配套实例\MvcForJunior\MvcForJunior\bin\System.Web.Http.WebHost.dll
+D:\G.公司文档\01.部门域\03.研发部\03部门共享\03培训资料\04新人培训\技术\517Na开发部新员工培训_8MVC\8ASP.NET_配套实例\MvcForJunior\MvcForJunior\bin\System.Web.Mvc.dll
+D:\G.公司文档\01.部门域\03.研发部\03部门共享\03培训资料\04新人培训\技术\517Na开发部新员工培训_8MVC\8ASP.NET_配套实例\MvcForJunior\MvcForJunior\bin\System.Web.Optimization.dll
+D:\G.公司文档\01.部门域\03.研发部\03部门共享\03培训资料\04新人培训\技术\517Na开发部新员工培训_8MVC\8ASP.NET_配套实例\MvcForJunior\MvcForJunior\bin\System.Web.Providers.dll
+D:\G.公司文档\01.部门域\03.研发部\03部门共享\03培训资料\04新人培训\技术\517Na开发部新员工培训_8MVC\8ASP.NET_配套实例\MvcForJunior\MvcForJunior\bin\System.Web.Razor.dll
+D:\G.公司文档\01.部门域\03.研发部\03部门共享\03培训资料\04新人培训\技术\517Na开发部新员工培训_8MVC\8ASP.NET_配套实例\MvcForJunior\MvcForJunior\bin\System.Web.WebPages.Deployment.dll
+D:\G.公司文档\01.部门域\03.研发部\03部门共享\03培训资料\04新人培训\技术\517Na开发部新员工培训_8MVC\8ASP.NET_配套实例\MvcForJunior\MvcForJunior\bin\System.Web.WebPages.dll
+D:\G.公司文档\01.部门域\03.研发部\03部门共享\03培训资料\04新人培训\技术\517Na开发部新员工培训_8MVC\8ASP.NET_配套实例\MvcForJunior\MvcForJunior\bin\System.Web.WebPages.Razor.dll
+D:\G.公司文档\01.部门域\03.研发部\03部门共享\03培训资料\04新人培训\技术\517Na开发部新员工培训_8MVC\8ASP.NET_配套实例\MvcForJunior\MvcForJunior\bin\WebGrease.dll
+D:\G.公司文档\01.部门域\03.研发部\03部门共享\03培训资料\04新人培训\技术\517Na开发部新员工培训_8MVC\8ASP.NET_配套实例\MvcForJunior\MvcForJunior\bin\Better517Na.MVCExcerise.Junior.TestPage.pdb
+D:\G.公司文档\01.部门域\03.研发部\03部门共享\03培训资料\04新人培训\技术\517Na开发部新员工培训_8MVC\8ASP.NET_配套实例\MvcForJunior\MvcForJunior\bin\Better517Na.MVCExcerise.Junior.ViewModel.pdb
+D:\G.公司文档\01.部门域\03.研发部\03部门共享\03培训资料\04新人培训\技术\517Na开发部新员工培训_8MVC\8ASP.NET_配套实例\MvcForJunior\MvcForJunior\bin\EntityFramework.xml
+D:\G.公司文档\01.部门域\03.研发部\03部门共享\03培训资料\04新人培训\技术\517Na开发部新员工培训_8MVC\8ASP.NET_配套实例\MvcForJunior\MvcForJunior\bin\Newtonsoft.Json.xml
+D:\G.公司文档\01.部门域\03.研发部\03部门共享\03培训资料\04新人培训\技术\517Na开发部新员工培训_8MVC\8ASP.NET_配套实例\MvcForJunior\MvcForJunior\bin\System.Net.Http.Formatting.xml
+D:\G.公司文档\01.部门域\03.研发部\03部门共享\03培训资料\04新人培训\技术\517Na开发部新员工培训_8MVC\8ASP.NET_配套实例\MvcForJunior\MvcForJunior\bin\System.Web.Http.xml
+D:\G.公司文档\01.部门域\03.研发部\03部门共享\03培训资料\04新人培训\技术\517Na开发部新员工培训_8MVC\8ASP.NET_配套实例\MvcForJunior\MvcForJunior\bin\System.Web.Http.WebHost.xml
+D:\G.公司文档\01.部门域\03.研发部\03部门共享\03培训资料\04新人培训\技术\517Na开发部新员工培训_8MVC\8ASP.NET_配套实例\MvcForJunior\MvcForJunior\bin\System.Web.Mvc.xml
+D:\G.公司文档\01.部门域\03.研发部\03部门共享\03培训资料\04新人培训\技术\517Na开发部新员工培训_8MVC\8ASP.NET_配套实例\MvcForJunior\MvcForJunior\bin\System.Web.Razor.xml
+D:\G.公司文档\01.部门域\03.研发部\03部门共享\03培训资料\04新人培训\技术\517Na开发部新员工培训_8MVC\8ASP.NET_配套实例\MvcForJunior\MvcForJunior\bin\System.Web.WebPages.xml
+D:\G.公司文档\01.部门域\03.研发部\03部门共享\03培训资料\04新人培训\技术\517Na开发部新员工培训_8MVC\8ASP.NET_配套实例\MvcForJunior\MvcForJunior\bin\System.Web.WebPages.Deployment.xml
+D:\G.公司文档\01.部门域\03.研发部\03部门共享\03培训资料\04新人培训\技术\517Na开发部新员工培训_8MVC\8ASP.NET_配套实例\MvcForJunior\MvcForJunior\bin\System.Web.WebPages.Razor.xml
+D:\G.公司文档\01.部门域\03.研发部\03部门共享\03培训资料\04新人培训\技术\517Na开发部新员工培训_8MVC\8ASP.NET_配套实例\MvcForJunior\MvcForJunior\bin\zh-Hans\EntityFramework.resources.dll
+D:\G.公司文档\01.部门域\03.研发部\03部门共享\03培训资料\04新人培训\技术\517Na开发部新员工培训_8MVC\8ASP.NET_配套实例\MvcForJunior\MvcForJunior\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+D:\G.公司文档\01.部门域\03.研发部\03部门共享\03培训资料\04新人培训\技术\517Na开发部新员工培训_8MVC\8ASP.NET_配套实例\MvcForJunior\MvcForJunior\bin\zh-Hans\System.Web.Http.resources.dll
+D:\G.公司文档\01.部门域\03.研发部\03部门共享\03培训资料\04新人培训\技术\517Na开发部新员工培训_8MVC\8ASP.NET_配套实例\MvcForJunior\MvcForJunior\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+D:\G.公司文档\01.部门域\03.研发部\03部门共享\03培训资料\04新人培训\技术\517Na开发部新员工培训_8MVC\8ASP.NET_配套实例\MvcForJunior\MvcForJunior\bin\zh-Hans\System.Web.Mvc.resources.dll
+D:\G.公司文档\01.部门域\03.研发部\03部门共享\03培训资料\04新人培训\技术\517Na开发部新员工培训_8MVC\8ASP.NET_配套实例\MvcForJunior\MvcForJunior\bin\zh-Hans\System.Web.Optimization.resources.dll
+D:\G.公司文档\01.部门域\03.研发部\03部门共享\03培训资料\04新人培训\技术\517Na开发部新员工培训_8MVC\8ASP.NET_配套实例\MvcForJunior\MvcForJunior\bin\zh-Hans\System.Web.Providers.resources.dll
+D:\G.公司文档\01.部门域\03.研发部\03部门共享\03培训资料\04新人培训\技术\517Na开发部新员工培训_8MVC\8ASP.NET_配套实例\MvcForJunior\MvcForJunior\bin\zh-Hans\System.Web.Razor.resources.dll
+D:\G.公司文档\01.部门域\03.研发部\03部门共享\03培训资料\04新人培训\技术\517Na开发部新员工培训_8MVC\8ASP.NET_配套实例\MvcForJunior\MvcForJunior\bin\zh-Hans\System.Web.WebPages.resources.dll
+D:\G.公司文档\01.部门域\03.研发部\03部门共享\03培训资料\04新人培训\技术\517Na开发部新员工培训_8MVC\8ASP.NET_配套实例\MvcForJunior\MvcForJunior\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+D:\G.公司文档\01.部门域\03.研发部\03部门共享\03培训资料\04新人培训\技术\517Na开发部新员工培训_8MVC\8ASP.NET_配套实例\MvcForJunior\MvcForJunior\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+D:\G.公司文档\01.部门域\03.研发部\03部门共享\03培训资料\04新人培训\技术\517Na开发部新员工培训_8MVC\8ASP.NET_配套实例\MvcForJunior\MvcForJunior\obj\Debug\Better517Na.MVCExcerise.Junior.WebUI.csprojResolveAssemblyReference.cache
+D:\G.公司文档\01.部门域\03.研发部\03部门共享\03培训资料\04新人培训\技术\517Na开发部新员工培训_8MVC\8ASP.NET_配套实例\MvcForJunior\MvcForJunior\obj\Debug\Better517Na.MVCExcerise.Junior.WebUI.dll
+D:\G.公司文档\01.部门域\03.研发部\03部门共享\03培训资料\04新人培训\技术\517Na开发部新员工培训_8MVC\8ASP.NET_配套实例\MvcForJunior\MvcForJunior\obj\Debug\Better517Na.MVCExcerise.Junior.WebUI.pdb

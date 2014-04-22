@@ -1,0 +1,14 @@
+D:\Users\chenxiaoyang.517NA\Documents\Visual Studio 2012\Projects\MvcForJunior\HtmlHelperExtensions\bin\Debug\HtmlHelperExtensions.dll
+D:\Users\chenxiaoyang.517NA\Documents\Visual Studio 2012\Projects\MvcForJunior\HtmlHelperExtensions\bin\Debug\HtmlHelperExtensions.pdb
+D:\Users\chenxiaoyang.517NA\Documents\Visual Studio 2012\Projects\MvcForJunior\HtmlHelperExtensions\obj\Debug\HtmlHelperExtensions.dll
+D:\Users\chenxiaoyang.517NA\Documents\Visual Studio 2012\Projects\MvcForJunior\HtmlHelperExtensions\obj\Debug\HtmlHelperExtensions.pdb
+D:\MvcForJunior\HtmlHelperExtensions\bin\Debug\HtmlHelperExtensions.dll
+D:\MvcForJunior\HtmlHelperExtensions\bin\Debug\HtmlHelperExtensions.pdb
+D:\MvcForJunior\HtmlHelperExtensions\obj\Debug\HtmlHelperExtensions.csprojResolveAssemblyReference.cache
+D:\MvcForJunior\HtmlHelperExtensions\obj\Debug\HtmlHelperExtensions.dll
+D:\MvcForJunior\HtmlHelperExtensions\obj\Debug\HtmlHelperExtensions.pdb
+D:\G.公司文档\01.部门域\03.研发部\03部门共享\03培训资料\04新人培训\技术\517Na开发部新员工培训_8MVC\8ASP.NET_配套实例\MvcForJunior\HtmlHelperExtensions\bin\Debug\HtmlHelperExtensions.dll
+D:\G.公司文档\01.部门域\03.研发部\03部门共享\03培训资料\04新人培训\技术\517Na开发部新员工培训_8MVC\8ASP.NET_配套实例\MvcForJunior\HtmlHelperExtensions\bin\Debug\HtmlHelperExtensions.pdb
+D:\G.公司文档\01.部门域\03.研发部\03部门共享\03培训资料\04新人培训\技术\517Na开发部新员工培训_8MVC\8ASP.NET_配套实例\MvcForJunior\HtmlHelperExtensions\obj\Debug\HtmlHelperExtensions.csprojResolveAssemblyReference.cache
+D:\G.公司文档\01.部门域\03.研发部\03部门共享\03培训资料\04新人培训\技术\517Na开发部新员工培训_8MVC\8ASP.NET_配套实例\MvcForJunior\HtmlHelperExtensions\obj\Debug\HtmlHelperExtensions.dll
+D:\G.公司文档\01.部门域\03.研发部\03部门共享\03培训资料\04新人培训\技术\517Na开发部新员工培训_8MVC\8ASP.NET_配套实例\MvcForJunior\HtmlHelperExtensions\obj\Debug\HtmlHelperExtensions.pdb

@@ -1,0 +1,14 @@
+D:\Users\chenxiaoyang.517NA\Documents\Visual Studio 2012\Projects\MvcForJunior\Better517Na.MVCExcerise.Junior.Business\bin\Debug\Better517Na.MVCExcerise.Junior.Business.dll
+D:\Users\chenxiaoyang.517NA\Documents\Visual Studio 2012\Projects\MvcForJunior\Better517Na.MVCExcerise.Junior.Business\bin\Debug\Better517Na.MVCExcerise.Junior.Business.pdb
+D:\Users\chenxiaoyang.517NA\Documents\Visual Studio 2012\Projects\MvcForJunior\Better517Na.MVCExcerise.Junior.Business\obj\Debug\Better517Na.MVCExcerise.Junior.Business.dll
+D:\Users\chenxiaoyang.517NA\Documents\Visual Studio 2012\Projects\MvcForJunior\Better517Na.MVCExcerise.Junior.Business\obj\Debug\Better517Na.MVCExcerise.Junior.Business.pdb
+D:\MvcForJunior\Better517Na.MVCExcerise.Junior.Business\bin\Debug\Better517Na.MVCExcerise.Junior.Business.dll
+D:\MvcForJunior\Better517Na.MVCExcerise.Junior.Business\bin\Debug\Better517Na.MVCExcerise.Junior.Business.pdb
+D:\MvcForJunior\Better517Na.MVCExcerise.Junior.Business\obj\Debug\Better517Na.MVCExcerise.Junior.Business.csprojResolveAssemblyReference.cache
+D:\MvcForJunior\Better517Na.MVCExcerise.Junior.Business\obj\Debug\Better517Na.MVCExcerise.Junior.Business.dll
+D:\MvcForJunior\Better517Na.MVCExcerise.Junior.Business\obj\Debug\Better517Na.MVCExcerise.Junior.Business.pdb
+D:\G.公司文档\01.部门域\03.研发部\03部门共享\03培训资料\04新人培训\技术\517Na开发部新员工培训_8MVC\8ASP.NET_配套实例\MvcForJunior\Better517Na.MVCExcerise.Junior.Business\bin\Debug\Better517Na.MVCExcerise.Junior.Business.dll
+D:\G.公司文档\01.部门域\03.研发部\03部门共享\03培训资料\04新人培训\技术\517Na开发部新员工培训_8MVC\8ASP.NET_配套实例\MvcForJunior\Better517Na.MVCExcerise.Junior.Business\bin\Debug\Better517Na.MVCExcerise.Junior.Business.pdb
+D:\G.公司文档\01.部门域\03.研发部\03部门共享\03培训资料\04新人培训\技术\517Na开发部新员工培训_8MVC\8ASP.NET_配套实例\MvcForJunior\Better517Na.MVCExcerise.Junior.Business\obj\Debug\Better517Na.MVCExcerise.Junior.Business.csprojResolveAssemblyReference.cache
+D:\G.公司文档\01.部门域\03.研发部\03部门共享\03培训资料\04新人培训\技术\517Na开发部新员工培训_8MVC\8ASP.NET_配套实例\MvcForJunior\Better517Na.MVCExcerise.Junior.Business\obj\Debug\Better517Na.MVCExcerise.Junior.Business.dll
+D:\G.公司文档\01.部门域\03.研发部\03部门共享\03培训资料\04新人培训\技术\517Na开发部新员工培训_8MVC\8ASP.NET_配套实例\MvcForJunior\Better517Na.MVCExcerise.Junior.Business\obj\Debug\Better517Na.MVCExcerise.Junior.Business.pdb

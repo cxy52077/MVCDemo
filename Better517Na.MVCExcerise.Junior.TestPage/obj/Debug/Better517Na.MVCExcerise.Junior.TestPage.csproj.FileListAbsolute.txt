@@ -1,0 +1,5 @@
+D:\Users\chenxiaoyang.517NA\Documents\Visual Studio 2012\Projects\MvcForJunior\Better517Na.MVCExcerise.Junior.TestPage\bin\Debug\Better517Na.MVCExcerise.Junior.TestPage.dll
+D:\Users\chenxiaoyang.517NA\Documents\Visual Studio 2012\Projects\MvcForJunior\Better517Na.MVCExcerise.Junior.TestPage\bin\Debug\Better517Na.MVCExcerise.Junior.TestPage.pdb
+D:\Users\chenxiaoyang.517NA\Documents\Visual Studio 2012\Projects\MvcForJunior\Better517Na.MVCExcerise.Junior.TestPage\obj\Debug\Better517Na.MVCExcerise.Junior.TestPage.csprojResolveAssemblyReference.cache
+D:\Users\chenxiaoyang.517NA\Documents\Visual Studio 2012\Projects\MvcForJunior\Better517Na.MVCExcerise.Junior.TestPage\obj\Debug\Better517Na.MVCExcerise.Junior.TestPage.dll
+D:\Users\chenxiaoyang.517NA\Documents\Visual Studio 2012\Projects\MvcForJunior\Better517Na.MVCExcerise.Junior.TestPage\obj\Debug\Better517Na.MVCExcerise.Junior.TestPage.pdb

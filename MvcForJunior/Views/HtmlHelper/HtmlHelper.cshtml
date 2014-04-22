@@ -1,0 +1,73 @@
+﻿@{
+    ViewBag.Title = "HtmlHelper";
+}
+@{
+    ViewBag.Title = "RazorView";
+    List<SelectListItem> positionList = new List<SelectListItem>(){
+        new SelectListItem { Text = "初级研发工程师", Value = "0", Selected = true },
+        new SelectListItem { Text = "初级测试工程师", Value = "1", Selected = false },
+        new SelectListItem { Text = "客服", Value = "2", Selected = false }
+    };
+    @model VMStaffInfo
+}
+@section headSection
+{
+    <!--会加载到母版页中对应为“headSection”的占位符位置，一般用来放当前页面的css引用-->
+    }
+@section scripts
+{
+     <!--会加载到母版页中对应为“scripts”的占位符位置，一般用来放当前页面的js引用-->
+    <script type="text/javascript" src="~/Scripts/plugin/My97DatePicker4.8/WdatePicker.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("#ajaxSubmit").click(function () {
+                $.ajax({
+                    url: "/HtmlHelper/HtmlHelper",
+                    data: { Name: $("#Name").val().trim(), Age: $("#Age").val().trim(), Sex: $("input[name='Sex']:checked").val(), Position: $("#Position").val() },
+                    type: "post",
+                    success: function (data) {
+                        console.log(data);
+                        $("#AjaxResult").html(data);
+                    },
+                    error: function (e) {
+                        alert("error");
+                    }
+                });
+            });
+        });
+    </script>
+}
+<h2>HtmlHelper</h2>
+<div class="container-fluid">
+    <div class="row-fluid">
+        <div class="span4">
+        </div>
+        <div class="span4">
+            @using (Html.BeginForm("HtmlHelper", "HtmlHelper", FormMethod.Get))
+            {
+                <fieldset>
+                    <legend>基本信息</legend>
+                    @Html.Label("姓名")
+                    @Html.TextBoxFor(m => m.Name)<br />
+                    @Html.Label("性别")
+                    <label>@Html.RadioButton("Sex", "0", true, new { id = "male", @class = "rad-male" }) 男</label>
+                    <label>@Html.RadioButton("Sex", "1", false, new { id = "female" }) 女</label><br />
+                    @Html.Label("年龄")
+                    @Html.TextBoxFor(m => m.Age)<br />
+                    @Html.Label("职位")
+                    @Html.DropDownListFor(m => m.Position, positionList)<br />
+                    <button type="submit" class="btn btn-primary">提交</button>
+                    <input type="button" class="btn btn-success" id="ajaxSubmit" value="ajax提交" />
+                </fieldset>
+            }
+        </div>
+        <div class="span4">
+            日期控件：<input type="text" name="txtDate" onfocus="WdatePicker({readOnly:true});" /><br />
+            自定义版本：
+        </div>
+        <div id="AjaxResult">
+            @{Html.RenderPartial("HtmlHelperPartial", Model);}
+        </div>
+    </div>
+</div>
+

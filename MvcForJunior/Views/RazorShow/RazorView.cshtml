@@ -1,0 +1,77 @@
+﻿@{
+    ViewBag.Title = "RazorView";
+    List<SelectListItem> positionList = new List<SelectListItem>(){
+        new SelectListItem { Text = "初级研发工程师", Value = "0", Selected = true },
+        new SelectListItem { Text = "初级测试工程师", Value = "1", Selected = false },
+        new SelectListItem { Text = "客服小妹", Value = "2", Selected = false }
+    };
+    @model VMStaffInfo
+}
+@section scripts
+{
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("#ajaxSubmit").click(function () {
+                //alert($('input[name="Sex" ]:checked').val());
+                //$("input[name='Sex' ]").each(function () {
+                //    var self = $(this);
+                //    if (self.attr("checked")) {
+                //        alert(self.val());
+                //    }
+                //})
+                $.ajax({
+                    url: "/RazorShow/NiceCatch",
+                    data: {
+                        Name: $("#txtName").val().trim(),
+                        Age: $("#txtAge").val().trim(),
+                        Sex: $("input[name='Sex']:checked").val(),
+                        Position: $("#sltPosition").val()
+                    },
+                    type: "post",
+                    cache: false,
+                    success: function (data) {
+                        var htmlStr = data;
+                        $("#txtAge").val("Ajax获取到了！");
+                    },
+                    error: function (e) {
+                        alert("error");
+                    }
+                });
+            });
+        });
+    </script>
+}
+<h2>RazorView</h2>
+@*<h3>@ViewBag.newCommer</h3>*@
+<div class="container-fluid">
+    <div class="row-fluid">
+        <div class="span4">
+        </div>
+        <div class="span4">
+            <form action="/RazorShow/RazorView" method="get">
+                <fieldset>
+                    <legend>基本信息</legend>
+                    <label>姓名</label><input type="text" id="txtName" name="Name" value="" /><br />
+                    <label>性别</label>
+                    <label>@Html.RadioButton("Sex", "0", true, new { id = "male" }) 男</label>
+                    <label>@Html.RadioButton("Sex", "1", false, new { id = "female" }) 女</label><br />
+                    <label>年龄</label><input type="text" id="txtAge" name="Age" value="@Model.Age"/><br />
+                    <label>职位</label>
+                    <select id="sltPosition" name="Position">
+                        <option value="0" selected="selected">初级研发工程师</option>
+                        <option value="1">初级测试工程师</option>
+                        <option value="2">客服小妹</option>
+                    </select><br />
+                    <button type="submit" class="btn btn-primary">提交</button>
+                    <input type="button" class="btn btn-success" id="ajaxSubmit" value="ajax提交" />
+                    @*@Html.EditorForModel()*@
+                    @*<button type="submit" class="btn btn-primary">提交</button>*@
+                </fieldset>
+            </form>
+        </div>
+        <div class="span4">
+        </div>
+    </div>
+</div>
+
+</div>
